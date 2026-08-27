@@ -91,6 +91,97 @@
       "url": "https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ipsum.lst"
     }
   },
+  "force_vpn": {
+    "address_count": 3580050,
+    "cidr_count": 2288,
+    "min_prefix_length": 18
+  },
+  "force_vpn_sources": {
+    "opencck_ai": {
+      "address_count": 317482,
+      "bytes": 8393,
+      "collapsed_cidr_count": 333,
+      "description": "ИИ-сервисы",
+      "discarded_broad_cidr_count": 217,
+      "etag": null,
+      "input_lines": 560,
+      "ipv4_entries": 560,
+      "last_modified": null,
+      "sha256": "e770e6d570a8457064136a05e4988401d8b12e32a59f297407514493e1ffe3fe",
+      "skipped_ipv6": 0,
+      "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=ai"
+    },
+    "opencck_discord": {
+      "address_count": 269992,
+      "bytes": 1231,
+      "collapsed_cidr_count": 39,
+      "description": "Discord",
+      "discarded_broad_cidr_count": 45,
+      "etag": null,
+      "input_lines": 84,
+      "ipv4_entries": 84,
+      "last_modified": null,
+      "sha256": "0866c13dd7c478fd11dac91407bd31ff4df118128a26b870f23044b8e12df00a",
+      "skipped_ipv6": 0,
+      "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=discord"
+    },
+    "opencck_messengers": {
+      "address_count": 999992,
+      "bytes": 15091,
+      "collapsed_cidr_count": 517,
+      "description": "Мессенджеры",
+      "discarded_broad_cidr_count": 469,
+      "etag": null,
+      "input_lines": 993,
+      "ipv4_entries": 993,
+      "last_modified": null,
+      "sha256": "bcdc5090545ea1c7460f540e99407d34c4e52ecf635b5cca9d1859f658f73978",
+      "skipped_ipv6": 0,
+      "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=messengers"
+    },
+    "opencck_socials": {
+      "address_count": 975266,
+      "bytes": 20466,
+      "collapsed_cidr_count": 881,
+      "description": "Социальные сети",
+      "discarded_broad_cidr_count": 394,
+      "etag": null,
+      "input_lines": 1306,
+      "ipv4_entries": 1306,
+      "last_modified": null,
+      "sha256": "89a0f506eddd238e38db79e668aec101bf71d46a46e480e5fe7a281f4219b08b",
+      "skipped_ipv6": 0,
+      "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=socials"
+    },
+    "opencck_video": {
+      "address_count": 253804,
+      "bytes": 8503,
+      "collapsed_cidr_count": 435,
+      "description": "Видеосервисы",
+      "discarded_broad_cidr_count": 98,
+      "etag": null,
+      "input_lines": 536,
+      "ipv4_entries": 536,
+      "last_modified": null,
+      "sha256": "a78b27f5b3952e55df93287f46f01645566360754ecd30ff08ceac4ccf7e30e8",
+      "skipped_ipv6": 0,
+      "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=video"
+    },
+    "opencck_youtube": {
+      "address_count": 1723776,
+      "bytes": 12104,
+      "collapsed_cidr_count": 474,
+      "description": "YouTube",
+      "discarded_broad_cidr_count": 314,
+      "etag": null,
+      "input_lines": 791,
+      "ipv4_entries": 791,
+      "last_modified": null,
+      "sha256": "4bc1f21b0ce3e233fead7a43828ee0164595d03793bab52e1524ef38f5269029",
+      "skipped_ipv6": 0,
+      "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=youtube"
+    }
+  },
   "ru_all": {
     "address_count": 45656875,
     "cidr_count": 13035

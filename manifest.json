@@ -1,4 +1,10 @@
 {
+  "force_vpn": {
+    "address_count": 3580050,
+    "cidr_count": 2288,
+    "rsc_sha256": "30c5cca7acede3cd717125f33377f273ffd2e9b10996087a25fd3d1a642e8fc1",
+    "txt_sha256": "3ff240a221cada5eb23856807af731be0308213366925898adf038e36f2679d5"
+  },
   "ru_direct": {
     "address_count": 45144496,
     "cidr_count": 15977,
