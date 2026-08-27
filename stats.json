@@ -1,0 +1,118 @@
+{
+  "anomalies": [],
+  "comparisons": {
+    "ipdeny_ru": {
+      "address_count": 45204288,
+      "bytes": 135173,
+      "cidr_count": 8651,
+      "collapsed_cidr_count": 8651,
+      "common_address_count": 43718518,
+      "description": "Контрольный агрегированный RU GeoIP",
+      "etag": "\"6a900f89-21005\"",
+      "input_lines": 8651,
+      "ipv4_entries": 8651,
+      "jaccard_percent": 93.755669,
+      "last_modified": "Thu, 27 Aug 2026 10:20:57 GMT",
+      "only_comparison_address_count": 1485770,
+      "only_generated_address_count": 1425978,
+      "sha256": "5b2a6cd7fc7e95b66511ea25ca70a4ef5b348a1990a3b635922bebaee8d3c16b",
+      "skipped_ipv6": 0,
+      "url": "https://www.ipdeny.com/ipblocks/data/aggregated/ru-aggregated.zone"
+    },
+    "jinndi_ru_direct": {
+      "address_count": 44978177,
+      "bytes": 280483,
+      "cidr_count": 17665,
+      "collapsed_cidr_count": 17665,
+      "common_address_count": 44978177,
+      "description": "Готовый чистый RU-список для сравнения",
+      "etag": "\"12efcf31fe8ba0440bcedd048bc5a2fdf061fad70b65d2cf4f6feffd8e107ce7\"",
+      "input_lines": 17665,
+      "ipv4_entries": 17665,
+      "jaccard_percent": 99.631585,
+      "last_modified": null,
+      "only_comparison_address_count": 0,
+      "only_generated_address_count": 166319,
+      "sha256": "0375802b632c3420cf84e22833af44e068bea19961707e0cacd312373ad5faeb",
+      "skipped_ipv6": 0,
+      "url": "https://raw.githubusercontent.com/jinndi/geoip-ru-ipset/main/data/ru-no-blocked.txt"
+    }
+  },
+  "exclusions": {
+    "antifilter_ipsum": {
+      "bytes": 245355,
+      "cidr_count_after": 14997,
+      "cidr_count_before": 13035,
+      "collapsed_cidr_count": 15707,
+      "description": "Агрегированный список Antifilter",
+      "etag": "\"6a8f985f-3be6b\"",
+      "input_lines": 15707,
+      "ipv4_entries": 15707,
+      "last_modified": "Thu, 27 Aug 2026 01:52:31 GMT",
+      "ru_intersection_address_count": 511626,
+      "ru_intersection_cidr_count": 1687,
+      "sha256": "81490fdd164dd113ce3684bc87e283136b81a124fe485c1c4b59743353309537",
+      "skipped_ipv6": 0,
+      "unique_removed_address_count": 511626,
+      "url": "https://antifilter.download/list/ipsum.lst"
+    },
+    "antifilter_subnet": {
+      "bytes": 1176,
+      "cidr_count_after": 14997,
+      "cidr_count_before": 14997,
+      "collapsed_cidr_count": 75,
+      "description": "Подсетевой список Antifilter",
+      "etag": "\"6a8f9860-498\"",
+      "input_lines": 75,
+      "ipv4_entries": 75,
+      "last_modified": "Thu, 27 Aug 2026 01:52:32 GMT",
+      "ru_intersection_address_count": 0,
+      "ru_intersection_cidr_count": 0,
+      "sha256": "babf90f0a69221bec6fbca44eb84be79bb053029de70e5742745d596da32ed35",
+      "skipped_ipv6": 0,
+      "unique_removed_address_count": 0,
+      "url": "https://antifilter.download/list/subnet.lst"
+    },
+    "refilter_ipsum": {
+      "bytes": 465117,
+      "cidr_count_after": 15977,
+      "cidr_count_before": 14997,
+      "collapsed_cidr_count": 24961,
+      "description": "IP-список Re-filter",
+      "etag": "\"0x8DEEF7F53C90FF9\"",
+      "input_lines": 27135,
+      "ipv4_entries": 27135,
+      "last_modified": "Sat, 01 Aug 2026 03:45:27 GMT",
+      "ru_intersection_address_count": 1767,
+      "ru_intersection_cidr_count": 1351,
+      "sha256": "ce579eeb075f0bf20d6d7349e81d0534da55aaa98e5b3bb02bb946a841fe26b7",
+      "skipped_ipv6": 0,
+      "unique_removed_address_count": 753,
+      "url": "https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ipsum.lst"
+    }
+  },
+  "ru_all": {
+    "address_count": 45656875,
+    "cidr_count": 13035
+  },
+  "ru_direct": {
+    "address_count": 45144496,
+    "cidr_count": 15977,
+    "removed_address_count": 512379
+  },
+  "ru_sources": {
+    "loyalsoldier_ru": {
+      "bytes": 447376,
+      "collapsed_cidr_count": 13035,
+      "description": "Основной RU GeoIP, также используемый проектом jinndi/geoip-ru",
+      "etag": "\"167bea0b1e43eba40caad047d66cad71f4bb92ef0f1402a9847655cf82e0b07c\"",
+      "input_lines": 25194,
+      "ipv4_entries": 13035,
+      "last_modified": null,
+      "sha256": "76a5360b9a8a9525616f4f6c66b8d148fcfca50301daa7dcf03f4bfd6b73aa02",
+      "skipped_ipv6": 12159,
+      "url": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/ru.txt"
+    }
+  },
+  "schema_version": 1
+}

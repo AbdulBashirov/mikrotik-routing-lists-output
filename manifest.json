@@ -1,0 +1,9 @@
+{
+  "ru_direct": {
+    "address_count": 45144496,
+    "cidr_count": 15977,
+    "rsc_sha256": "d489b0d9b336731a84753564ac8217b8aaaf0fbe53a378ada10322013ec886b4",
+    "txt_sha256": "85aa237659669b3ab97fc7ea93c2a1dbe9287e2940beb40d0950d5fe80680d5b"
+  },
+  "schema_version": 1
+}
