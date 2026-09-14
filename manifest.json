@@ -1,15 +1,15 @@
 {
   "force_vpn": {
-    "address_count": 3602868,
-    "cidr_count": 2300,
-    "rsc_sha256": "a5d0c9b5b9e8309920e7a220675bcbee91860629f6b1d6a36ed5a7c473b8b61d",
-    "txt_sha256": "2c3cadbad694a976f65afa087e41933e233b1beb544f3e8c3d3154160a2ab6ac"
+    "address_count": 3603124,
+    "cidr_count": 2301,
+    "rsc_sha256": "7f23cf63d498f8a19aa24624976e04ad5f7284d87c2d7989d121705383935f23",
+    "txt_sha256": "5f2f502c2c4cd289ae9bb03c1587453afa4e985a26eb1004c72f85b6a381e0ca"
   },
   "ru_direct": {
-    "address_count": 45126199,
-    "cidr_count": 16009,
-    "rsc_sha256": "122da10359cdb875a28b09f710a14fde32a7ba6a0e5fdf543efac7ef78c2b646",
-    "txt_sha256": "efc7fe3e253d0e9d0562079af25ca3292a4e958918169eee168db2fa2eb20a9a"
+    "address_count": 45127484,
+    "cidr_count": 16057,
+    "rsc_sha256": "472f597cacbe2049d341f7d730bae0a247701376af27cc7e9679e9013dc0b52c",
+    "txt_sha256": "ea912ba2b76f71b82cded94d5827b88f42f62c4bd6bd8f7bd3718a50cf68d52a"
   },
   "schema_version": 1
 }
