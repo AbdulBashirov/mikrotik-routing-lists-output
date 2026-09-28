@@ -6,10 +6,10 @@
     "txt_sha256": "06ae743d5e2b93d17775b56ad8b359af4387e019be6a7824668e399c37485154"
   },
   "ru_direct": {
-    "address_count": 45127192,
-    "cidr_count": 16049,
-    "rsc_sha256": "13032c347784c6c0818e2598094a16fede04f05e67adc714ee42a7c6e48dc9b6",
-    "txt_sha256": "622c0ad35ffc73ea15c7840224de72ee33b98a6f01c30a0240a56f50b6a127bf"
+    "address_count": 45128208,
+    "cidr_count": 16111,
+    "rsc_sha256": "78d70eac93b5cff9106afef25106f60670221320cdef32dc8299bbd6371c73e1",
+    "txt_sha256": "1bbd5e6a0902f5a4a3b58f261c885fa197059711a8b5df131c12937e518e309c"
   },
   "schema_version": 1
 }
