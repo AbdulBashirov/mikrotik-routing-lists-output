@@ -8,11 +8,11 @@
       "collapsed_cidr_count": 8655,
       "common_address_count": 43718954,
       "description": "Контрольный агрегированный RU GeoIP",
-      "etag": "\"6ac76e9f-2104e\"",
+      "etag": "\"6ac8c01f-2104e\"",
       "input_lines": 8655,
       "ipv4_entries": 8655,
       "jaccard_percent": 93.734734,
-      "last_modified": "Thu, 08 Oct 2026 10:21:19 GMT",
+      "last_modified": "Fri, 09 Oct 2026 10:21:19 GMT",
       "only_comparison_address_count": 1501206,
       "only_generated_address_count": 1420986,
       "sha256": "eb60677d5001e9a92ec132b4617c3f309ad64cb58fd1abb9ce9c55064a2b1b6a",
@@ -92,8 +92,8 @@
     }
   },
   "force_vpn": {
-    "address_count": 3643843,
-    "cidr_count": 2323,
+    "address_count": 3644091,
+    "cidr_count": 2316,
     "min_prefix_length": 18
   },
   "force_vpn_sources": {
@@ -140,16 +140,16 @@
       "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=messengers"
     },
     "opencck_socials": {
-      "address_count": 992137,
-      "bytes": 20271,
-      "collapsed_cidr_count": 860,
+      "address_count": 992129,
+      "bytes": 20151,
+      "collapsed_cidr_count": 852,
       "description": "Социальные сети",
-      "discarded_broad_cidr_count": 408,
+      "discarded_broad_cidr_count": 409,
       "etag": null,
-      "input_lines": 1299,
-      "ipv4_entries": 1299,
+      "input_lines": 1292,
+      "ipv4_entries": 1292,
       "last_modified": null,
-      "sha256": "72ebdc6f9433f82e0f2476a97501f0740104f7bc30ec4936646c065a82e4f60e",
+      "sha256": "805c09b16e3076065fce59aea2e0c5cfe01b3ca4d29bbdb43a9a4420a0eba881",
       "skipped_ipv6": 0,
       "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=socials"
     },
@@ -168,16 +168,16 @@
       "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=video"
     },
     "opencck_youtube": {
-      "address_count": 1724037,
-      "bytes": 12255,
-      "collapsed_cidr_count": 480,
+      "address_count": 1724293,
+      "bytes": 12270,
+      "collapsed_cidr_count": 481,
       "description": "YouTube",
       "discarded_broad_cidr_count": 318,
       "etag": null,
-      "input_lines": 801,
-      "ipv4_entries": 801,
+      "input_lines": 802,
+      "ipv4_entries": 802,
       "last_modified": null,
-      "sha256": "fe3ca2c3f61d93bc619ff31f0645c5d2e13f6c57e3e4b59b8095f345b24956b7",
+      "sha256": "a0986747ff4889257a31c46d72c305e42642a0d7c8b5bdc20dd2350850d5692e",
       "skipped_ipv6": 0,
       "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=youtube"
     }
