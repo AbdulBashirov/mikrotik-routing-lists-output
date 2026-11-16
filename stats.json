@@ -8,11 +8,11 @@
       "collapsed_cidr_count": 8664,
       "common_address_count": 43741841,
       "description": "Контрольный агрегированный RU GeoIP",
-      "etag": "\"6af84491-210e0\"",
+      "etag": "\"6af9960b-210e0\"",
       "input_lines": 8664,
       "ipv4_entries": 8664,
       "jaccard_percent": 93.725884,
-      "last_modified": "Sat, 14 Nov 2026 11:22:57 GMT",
+      "last_modified": "Sun, 15 Nov 2026 11:22:51 GMT",
       "only_comparison_address_count": 1503407,
       "only_generated_address_count": 1424721,
       "sha256": "a115697bb8cacf10c211c59848448862c05411a62b21e343e8fb3fab0cb0a645",
@@ -92,8 +92,8 @@
     }
   },
   "force_vpn": {
-    "address_count": 3699206,
-    "cidr_count": 2323,
+    "address_count": 3699207,
+    "cidr_count": 2324,
     "min_prefix_length": 18
   },
   "force_vpn_sources": {
@@ -126,16 +126,16 @@
       "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=discord"
     },
     "opencck_messengers": {
-      "address_count": 1016645,
-      "bytes": 15339,
-      "collapsed_cidr_count": 532,
+      "address_count": 1016646,
+      "bytes": 15357,
+      "collapsed_cidr_count": 533,
       "description": "Мессенджеры",
       "discarded_broad_cidr_count": 468,
       "etag": null,
-      "input_lines": 1007,
-      "ipv4_entries": 1007,
+      "input_lines": 1008,
+      "ipv4_entries": 1008,
       "last_modified": null,
-      "sha256": "f88c4104e8ac1f6f74862468621b500dc64c6ee73b7b523849451cd3b2606548",
+      "sha256": "737f24da0fc3eb4d1454696f21bc371f206d7d7c598e2ca0fc88b21109728f5b",
       "skipped_ipv6": 0,
       "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=messengers"
     },
