@@ -8,11 +8,11 @@
       "collapsed_cidr_count": 8664,
       "common_address_count": 43741841,
       "description": "Контрольный агрегированный RU GeoIP",
-      "etag": "\"6af9960b-210e0\"",
+      "etag": "\"6afae78e-210e0\"",
       "input_lines": 8664,
       "ipv4_entries": 8664,
       "jaccard_percent": 93.725884,
-      "last_modified": "Sun, 15 Nov 2026 11:22:51 GMT",
+      "last_modified": "Mon, 16 Nov 2026 11:22:54 GMT",
       "only_comparison_address_count": 1503407,
       "only_generated_address_count": 1424721,
       "sha256": "a115697bb8cacf10c211c59848448862c05411a62b21e343e8fb3fab0cb0a645",
@@ -92,8 +92,8 @@
     }
   },
   "force_vpn": {
-    "address_count": 3699207,
-    "cidr_count": 2324,
+    "address_count": 3699464,
+    "cidr_count": 2326,
     "min_prefix_length": 18
   },
   "force_vpn_sources": {
@@ -140,16 +140,16 @@
       "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=messengers"
     },
     "opencck_socials": {
-      "address_count": 1014949,
-      "bytes": 19908,
-      "collapsed_cidr_count": 833,
+      "address_count": 1015206,
+      "bytes": 19941,
+      "collapsed_cidr_count": 835,
       "description": "Социальные сети",
       "discarded_broad_cidr_count": 415,
       "etag": null,
-      "input_lines": 1279,
-      "ipv4_entries": 1279,
+      "input_lines": 1281,
+      "ipv4_entries": 1281,
       "last_modified": null,
-      "sha256": "1d2c49ced9a2c8e18462f2f4ceba0bb8dddfd2d1d36715d99cca1cae18db57b3",
+      "sha256": "6483e0e497ad825e7aeb6ba2500562bfc721d67146a9f7e68888d2d7006bd058",
       "skipped_ipv6": 0,
       "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=socials"
     },
