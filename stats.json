@@ -6,34 +6,34 @@
       "bytes": 135392,
       "cidr_count": 8664,
       "collapsed_cidr_count": 8664,
-      "common_address_count": 43739283,
+      "common_address_count": 43740304,
       "description": "Контрольный агрегированный RU GeoIP",
-      "etag": "\"6afc391a-210e0\"",
+      "etag": "\"6afd8a96-210e0\"",
       "input_lines": 8664,
       "ipv4_entries": 8664,
-      "jaccard_percent": 93.723496,
-      "last_modified": "Tue, 17 Nov 2026 11:23:06 GMT",
-      "only_comparison_address_count": 1505965,
-      "only_generated_address_count": 1423181,
+      "jaccard_percent": 93.618854,
+      "last_modified": "Wed, 18 Nov 2026 11:23:02 GMT",
+      "only_comparison_address_count": 1504944,
+      "only_generated_address_count": 1476435,
       "sha256": "a115697bb8cacf10c211c59848448862c05411a62b21e343e8fb3fab0cb0a645",
       "skipped_ipv6": 0,
       "url": "https://www.ipdeny.com/ipblocks/data/aggregated/ru-aggregated.zone"
     },
     "jinndi_ru_direct": {
-      "address_count": 44991049,
-      "bytes": 289710,
-      "cidr_count": 18224,
-      "collapsed_cidr_count": 18224,
-      "common_address_count": 44991049,
+      "address_count": 45047628,
+      "bytes": 291554,
+      "cidr_count": 18338,
+      "collapsed_cidr_count": 18338,
+      "common_address_count": 45047628,
       "description": "Готовый чистый RU-список для сравнения",
-      "etag": "\"bae271fe88f24c2bb3bb31bb6b2a48f910df5e766198d71bb8cb23362e7b3b64\"",
-      "input_lines": 18224,
-      "ipv4_entries": 18224,
-      "jaccard_percent": 99.620448,
+      "etag": "\"091b6ff5e1db30f0920d637c11bf275084847a0a77904022a745acfb9c3fa4f3\"",
+      "input_lines": 18338,
+      "ipv4_entries": 18338,
+      "jaccard_percent": 99.625999,
       "last_modified": null,
       "only_comparison_address_count": 0,
-      "only_generated_address_count": 171415,
-      "sha256": "6cbb76918648bc018d0d56c2fcf795c1b3d9357fc8587e3e08835862ea2727e2",
+      "only_generated_address_count": 169111,
+      "sha256": "6e10ae4758a5fe30434d96ef41d87a635ec0ac0e5b4117e6d2bfbfbc95b91288",
       "skipped_ipv6": 0,
       "url": "https://raw.githubusercontent.com/jinndi/geoip-ru-ipset/main/data/ru-no-blocked.txt"
     }
@@ -41,25 +41,25 @@
   "exclusions": {
     "antifilter_ipsum": {
       "bytes": 294887,
-      "cidr_count_after": 15289,
-      "cidr_count_before": 13087,
+      "cidr_count_after": 15397,
+      "cidr_count_before": 13193,
       "collapsed_cidr_count": 16638,
       "description": "Агрегированный список Antifilter",
       "etag": "\"6afd2b6c-47fe7\"",
       "input_lines": 18872,
       "ipv4_entries": 18872,
       "last_modified": "Wed, 18 Nov 2026 04:37:00 GMT",
-      "ru_intersection_address_count": 569226,
-      "ru_intersection_cidr_count": 1880,
+      "ru_intersection_address_count": 570762,
+      "ru_intersection_cidr_count": 1886,
       "sha256": "1c59d187a5abbe06f8285ee4626742b3877f9f7e862eb63906a02c7b2de235ca",
       "skipped_ipv6": 0,
-      "unique_removed_address_count": 569226,
+      "unique_removed_address_count": 570762,
       "url": "https://antifilter.download/list/ipsum.lst"
     },
     "antifilter_subnet": {
       "bytes": 1079,
-      "cidr_count_after": 15289,
-      "cidr_count_before": 15289,
+      "cidr_count_after": 15397,
+      "cidr_count_before": 15397,
       "collapsed_cidr_count": 69,
       "description": "Подсетевой список Antifilter",
       "etag": "\"6afd2b6d-437\"",
@@ -75,8 +75,8 @@
     },
     "refilter_ipsum": {
       "bytes": 473238,
-      "cidr_count_after": 16678,
-      "cidr_count_before": 15289,
+      "cidr_count_after": 16786,
+      "cidr_count_before": 15397,
       "collapsed_cidr_count": 25394,
       "description": "IP-список Re-filter",
       "etag": "\"0x8DF3C95CEE4DAC3\"",
@@ -92,8 +92,8 @@
     }
   },
   "force_vpn": {
-    "address_count": 3699458,
-    "cidr_count": 2320,
+    "address_count": 3699459,
+    "cidr_count": 2321,
     "min_prefix_length": 18
   },
   "force_vpn_sources": {
@@ -140,16 +140,16 @@
       "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=messengers"
     },
     "opencck_socials": {
-      "address_count": 1015200,
-      "bytes": 19850,
-      "collapsed_cidr_count": 829,
+      "address_count": 1015201,
+      "bytes": 19868,
+      "collapsed_cidr_count": 830,
       "description": "Социальные сети",
       "discarded_broad_cidr_count": 416,
       "etag": null,
-      "input_lines": 1276,
-      "ipv4_entries": 1276,
+      "input_lines": 1277,
+      "ipv4_entries": 1277,
       "last_modified": null,
-      "sha256": "6f1b249e0295a3a328757e3d440f5928d140f1e9d77390844bad8945cfbd629d",
+      "sha256": "40d6845eac97620915c1168c25caaaf4fef0ba4dbe7a6ce73205882c9d816625",
       "skipped_ipv6": 0,
       "url": "https://iplist.opencck.org/?format=text&data=cidr4&group=socials"
     },
@@ -183,25 +183,25 @@
     }
   },
   "ru_all": {
-    "address_count": 45732542,
-    "cidr_count": 13087
+    "address_count": 45788353,
+    "cidr_count": 13193
   },
   "ru_direct": {
-    "address_count": 45162464,
-    "cidr_count": 16678,
-    "removed_address_count": 570078
+    "address_count": 45216739,
+    "cidr_count": 16786,
+    "removed_address_count": 571614
   },
   "ru_sources": {
     "loyalsoldier_ru": {
-      "bytes": 448703,
-      "collapsed_cidr_count": 13087,
+      "bytes": 450319,
+      "collapsed_cidr_count": 13193,
       "description": "Основной RU GeoIP, также используемый проектом jinndi/geoip-ru",
-      "etag": "\"f91592777a5e04275fc1d91a71c8d6d926c16703ccc321efa3c91dd8d0ebb200\"",
-      "input_lines": 25265,
-      "ipv4_entries": 13087,
+      "etag": "\"9990daad4ddd76a7cf19c27b9a33efdfbfafc906836df1afb9abae016c0a707a\"",
+      "input_lines": 25365,
+      "ipv4_entries": 13193,
       "last_modified": null,
-      "sha256": "5219dd85482a342b24da367213646be0efd8953f029638ab2790f7c2ff80ba6f",
-      "skipped_ipv6": 12178,
+      "sha256": "a8c5a50d1e65094ac81189da7f358a8a0edd0579fbf0aa45c00757b32e067ae8",
+      "skipped_ipv6": 12172,
       "url": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/ru.txt"
     }
   },
